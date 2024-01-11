@@ -1,3 +1,1 @@
-import * as wasm from "wasm-client";
-
-wasm.greet();
+import('wasm-client/wasm_stu')
